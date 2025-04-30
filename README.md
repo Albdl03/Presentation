@@ -30,14 +30,6 @@ Developing a predictive ESG scoring model based on company reports using NLP, to
 
 **Skills**: NLP, LDA, regression, Python, ESG metrics, data visualization
 
----
-
-###  [Power BI Sales Dashboard]
-Created a dynamic sales dashboard to track KPIs and trends, supporting decision-making through interactive data visuals and filtering options.
-
-**Tools**: Power BI, DAX, Excel, SQL
-
----
 
 ##  Technical Skills
 
